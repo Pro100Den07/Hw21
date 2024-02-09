@@ -33,5 +33,5 @@ public class Main {
 //git init
 //git add .
 //git commit -m "first commit"
-//git remote add origin github.com/Pro100Den07/hw7.git
+//git remote add origin https://github.com/Pro100Den07/Hw7.git
 //git push -u origin main
